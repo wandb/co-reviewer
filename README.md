@@ -2,6 +2,10 @@
 
 Co-reviewer is a tool that helps code owners review changes in pull requests efficiently. It provides a clear view of which changes need review and which have already been approved.
 
+![image](https://github.com/user-attachments/assets/e4b5aea8-3d1e-4a02-a61d-512dbf35c665)
+![image](https://github.com/user-attachments/assets/afe4a1ea-bd16-465f-9899-7dc7aa2071e9)
+
+
 ## Features
 
 - View changed files in a pull request with side-by-side diff view
