@@ -12,7 +12,7 @@
     "@monaco-editor/react": "^4.6.0",
     "@octokit/rest": "^20.0.2",
     "autoprefixer": "^10.4.17",
-    "axios": "^1.6.7",
+    "axios": "^1.13.5",
     "classnames": "^2.5.1",
     "codeowners-utils": "^1.0.2",
     "next": "^14.1.0",
